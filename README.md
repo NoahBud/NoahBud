@@ -1,4 +1,4 @@
-# 🧠 NoahBud - Projets Personnels
+# Noah Budai
 
 Bienvenue sur mon GitHub !  
 Ici, je regroupe tous mes **projets personnels**, développés au fil de mon parcours d’apprentissage et de mes expérimentations.
