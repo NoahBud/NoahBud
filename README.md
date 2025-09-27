@@ -14,7 +14,6 @@ Voici quelques exemples de ce que vous pourriez y trouver :
 
 - 🔷 **projet-ia/** : modèles et notebooks provenant de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
 - 🔷 **projet-laravel/** : Sites web développés avec Laravel 
-- 🔷 **projet-c/** : projets algorithmiques en C
 
 > Chaque projet possède son propre `README.md` (ou en aura un bientôt), pour expliquer son fonctionnement et ses objectifs.
 
