@@ -12,8 +12,8 @@ Cela comporte des projets dans des **langages variés** et dans des **domaines d
 Chaque repository correspond à un projet indépendant.  
 Voici quelques exemples de ce que vous pourriez y trouver :
 
-- 🔷 **projet-ia/** : modèles et notebooks provenant de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
-- 🔷 **projet-laravel/** : Sites web développés avec Laravel 
+- 🔷 **projet-ia/** : modèles, notebooks et rapport de stage provenant de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
+- 🔷 **projet-full-stack/** : Site web développés avec Laravel + une API lié à une application mobile créer via Android Studio
 
 > Chaque projet possède son propre `README.md` (ou en aura un bientôt), pour expliquer son fonctionnement et ses objectifs.
 
@@ -32,7 +32,7 @@ Voici quelques exemples de ce que vous pourriez y trouver :
 
 - **Langages** : C, Python, PHP, JavaScript, HTML/CSS
 - **Frameworks** : Laravel, PyTorch
-- **Outils** : Git, Composer, Node.js, VS Code, CLion, Android Studio...
+- **Outils** : Git, Docker
 
 ---
 
