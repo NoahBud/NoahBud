@@ -1,47 +1,30 @@
 # Noah Budai
 
-Bienvenue sur mon GitHub !  
-Ici, je regroupe tous mes **projets personnels**, développés au fil de mon parcours d’apprentissage et de mes expérimentations.
+Bienvenue sur mon GitHub ! Je regroupe ici tous mes*projets personnels développés au cours de mes années universitaires et de mes expérimentations.
+Cela comporte divers projets pour lesquels j'ai trouvé un certain intérêt.
 
-Cela comporte des projets dans des **langages variés** et dans des **domaines diversifiés**, allant de l'intelligence artificielle à des applications web complètes avec Laravel.
+## Structure de mon Git
 
----
+Chaque repo correspond à un projet :
 
-## 🗂️ Structure
+- 🔷 **projet-ia/** : modèles, notebooks et rapport de stage de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
+- 🔷 **projet-full-stack/** : Site web développé avec Laravel + une API lié à une application mobile programmée en Java sous Android Studio
 
-Chaque repository correspond à un projet indépendant.  
-Voici quelques exemples de ce que vous pourriez y trouver :
 
-- 🔷 **projet-ia/** : modèles, notebooks et rapport de stage provenant de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
-- 🔷 **projet-full-stack/** : Site web développés avec Laravel + une API lié à une application mobile créer via Android Studio
+## Objectifs personnels
 
-> Chaque projet possède son propre `README.md` (ou en aura un bientôt), pour expliquer son fonctionnement et ses objectifs.
+Mon objectif est d'enrichir mes compétences et nourrir ma curiosité en développant des programmes qui me semblent pertinents.
+J'aime concevoir puis optimiser au mieux mes propres applications, pour avoir le meilleur rendu final.
 
----
 
-## 🚀 Objectifs
-
-- Centraliser mes travaux perso
-- Suivre ma progression au fil du temps
-- M’entraîner sur différentes technologies
-- Partager mes idées et mes expérimentations avec d’autres développeurs
-
----
-
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Langages** : C, Python, PHP, JavaScript, HTML/CSS
 - **Frameworks** : Laravel, PyTorch
 - **Outils** : Git, Docker
 
----
+- Mes préférés : Python et C
+  
 
-## 📬 Contact
-
-Vous voulez échanger sur un projet ou me proposer une amélioration ?  
-N’hésitez pas à m’écrire via [mon profil GitHub](https://github.com/NoahBud).
-
----
-
-Merci d’avoir visité ce Git ! 
-🚧 * en évolution constante, de nouveaux projets y seront ajoutés régulièrement.*
+## Contact
+N'hésitez pas à me contacter : noah.budai@orange.fr
