@@ -7,8 +7,8 @@ Cela comporte divers projets pour lesquels j'ai trouvé un certain intérêt.
 
 Chaque repo correspond à un projet :
 
-- 🔷 **projet-ia/** : modèles, notebooks et rapport de stage de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
-- 🔷 **projet-full-stack/** : Site web développé avec Laravel + une API lié à une application mobile programmée en Java sous Android Studio
+- 🔷 **[DeepLearning_CNN_Internship](https://github.com/NoahBud/DeepLearning_CNN_Internship)** : modèles, notebooks et rapport de stage de mon stage au LICIIS de Reims (modèles convolutionnels, blocs résiduels...)
+- 🔷 **[API-Based-Mobile-Web-Application](https://github.com/NoahBud/API-Based-Mobile-Web-Application)** : Site web développé avec Laravel + une API lié à une application mobile programmée en Java sous Android Studio
 
 
 ## Objectifs personnels
