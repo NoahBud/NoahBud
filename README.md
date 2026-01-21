@@ -19,10 +19,10 @@ J'aime concevoir et optimiser au mieux mes propres applications, pour avoir le m
 - **Langages** : C, Python, PHP, Java, JavaScript, HTML/CSS
 - **Frameworks** : Laravel, PyTorch, LangChain
 - **Outils** : Git, Docker, Ollama
-- **Systèmes d'exploitation*** : MacOS, Linux(Kali/Debian)
+- **Systèmes d'exploitation** : MacOS, Linux(Kali/Debian)
 
 - **Mes préférés** : Python et C
   
 
 ## Contact
-N'hésitez pas à me contacter : noah.budai@orange.fr
+N'hésitez pas à me contacter : noah.budai@etudiant.univ-reims.fr
