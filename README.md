@@ -5,7 +5,7 @@ Cela comporte de nombreux projets sur lesquels j'ai pu travailler et desquels j'
 
 ## Focus actuel
 
-Je suis actuellement en train de développer mon propre assistant de révisions IA grâce à un agent RAG, en utilisant notamment LangChain.
+Je suis actuellement en train de développer mon propre assistant de révisions IA grâce à un agent utilisant la RAG, notamment avec LangChain. 
 
 
 ## Objectifs personnels
